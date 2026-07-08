@@ -1,0 +1,3 @@
+
+requirements.txt
+> Your project only uses Python's built-in libraries, so **no external packages are required**.
