@@ -1,2 +1,25 @@
-# Port-Scanner
-**Port Scanner:** Developed a Python-based port scanner that scans a target IP address to identify open network ports. The tool uses socket programming to check port availability and helps in basic network analysis and security assessment.
+# Python Port Scanner
+
+A simple TCP Port Scanner built using Python sockets.
+
+## Features
+
+- Scans ports 1-65535
+- Resolves hostnames to IP addresses
+- Displays open ports
+- Handles invalid hostnames and connection errors
+- Easy to use from the command line
+
+## Technologies Used
+
+- Python 3
+- Socket module
+- Datetime module
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/port-scanner.git
+cd port-scanner
